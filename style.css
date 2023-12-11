@@ -164,9 +164,6 @@ header {
   letter-spacing: 0.3px;
 }
 
-.essential-img img {
-}
-
 .lighting {
   background-color: #ffc868;
   border-radius: 5px;
@@ -178,7 +175,7 @@ header {
 }
 
 .lighting-text p {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   width: 80%;
   /* margin-left: auto; */
   float: right;
@@ -193,4 +190,42 @@ header {
   height: 300px;
   position: absolute;
   bottom: 0;
+}
+
+/* ---------------------------------- */
+/*              CATEGORY              */
+/* ---------------------------------- */
+
+.categorySection {
+  background-color: #aea08d;
+}
+
+.category-part {
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+.categories {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.category {
+  height: 20rem;
+  width: 20rem;
+  background-color: #eeecec;
+  margin: 1rem;
+  padding: 1rem 2px 1rem 1rem;
+  box-shadow: 2px 2px 50px black;
+  border-radius: 10px;
+}
+
+.category img {
+  width: 100%;
+  height: 100%;
+  padding: 1rem 10px 1rem 1rem;
+  border-radius: 2rem;
 }
