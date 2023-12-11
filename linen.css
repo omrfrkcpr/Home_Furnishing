@@ -176,7 +176,7 @@ header {
   flex-wrap: wrap;
   gap: 1rem;
   margin-top: 1rem;
-  background-image: url(img/wooden.avif);
+  background-image: url(img/darklinen.jpg);
   background-position: center;
   padding: 1rem 1rem;
 }
@@ -228,7 +228,7 @@ header {
   /* border-color: green; */
   height: 15rem;
   width: 60rem;
-  background-image: url(img/woodenbg.avif);
+  background-image: url(img/linenbg.avif);
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: contain;

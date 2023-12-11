@@ -176,8 +176,11 @@ header {
   flex-wrap: wrap;
   gap: 1rem;
   margin-top: 1rem;
-  background-image: url(img/wooden.avif);
+  background-image: url(img/leatherheaderbgavif.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
+  object-fit: cover;
   padding: 1rem 1rem;
 }
 
@@ -228,7 +231,7 @@ header {
   /* border-color: green; */
   height: 15rem;
   width: 60rem;
-  background-image: url(img/woodenbg.avif);
+  background-image: url(img/lightleatherbg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: contain;
@@ -255,7 +258,7 @@ header {
 }
 
 .long {
-  height: 20rem;
+  height: 25rem;
 }
 
 /* ---------------------------------- */

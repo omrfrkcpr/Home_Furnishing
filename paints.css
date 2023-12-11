@@ -69,6 +69,7 @@ body {
   justify-content: space-between;
   margin-left: 1rem;
   border-color: #d9d9d9;
+  border-radius: 5px;
   border: 1px;
   background-color: #d9d9d9;
 }
@@ -176,7 +177,11 @@ header {
   flex-wrap: wrap;
   gap: 1rem;
   margin-top: 1rem;
-  background-image: url(img/wooden.avif);
+  background-image: url(img/paintsheaderbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-position: bottom;
   background-position: center;
   padding: 1rem 1rem;
 }
@@ -195,7 +200,7 @@ header {
   font-style: italic;
   font-size: 2rem;
   letter-spacing: 0.3px;
-  color: white;
+  color: black;
   text-align: center;
   margin: auto;
 }
@@ -228,14 +233,35 @@ header {
   /* border-color: green; */
   height: 15rem;
   width: 60rem;
-  background-image: url(img/woodenbg.avif);
-  background-repeat: no-repeat;
-  background-size: cover;
-  object-fit: contain;
   margin: 1rem;
   padding: 1rem 2px 1rem 1rem;
   box-shadow: 2px 2px 50px black;
   border-radius: 10px;
+}
+
+.info1 {
+  background-color: rgb(187, 240, 187);
+}
+.info1:hover {
+  box-shadow: 0 0 50px rgb(64, 221, 64);
+}
+.info2 {
+  background-color: rgb(248, 176, 176);
+}
+.info2:hover {
+  box-shadow: 0 0 50px rgb(218, 52, 52);
+}
+.info3 {
+  background-color: lightyellow;
+}
+.info3:hover {
+  box-shadow: 0 0 50px yellow;
+}
+.info4 {
+  background-color: rgb(179, 167, 246);
+}
+.info4:hover {
+  box-shadow: 0 0 50px rgb(78, 51, 230);
 }
 
 .info .top-info {
@@ -302,8 +328,7 @@ header {
   transform: scale(1.03);
 }
 
-.product:hover,
-.info:hover {
+.product:hover {
   box-shadow: 0 0 50px yellow;
 }
 

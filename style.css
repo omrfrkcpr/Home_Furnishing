@@ -129,7 +129,7 @@ body {
 }
 
 .nav {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   margin-left: 1rem;
   color: lightblue;
   border-color: #d9d9d9;
