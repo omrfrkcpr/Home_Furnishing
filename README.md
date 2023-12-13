@@ -34,7 +34,7 @@ Home_Furnishing (folder)
 
 ## Expected Outcome
 
-![ezgif-1-74eb11031e](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/d9e9b395-4ac7-4d5b-80eb-3204f3ac15c5)
+![ezgif-2-e2762feb33](https://github.com/omrfrkcpr/Home_Furnishing/assets/77440899/b98256a2-cce7-43f1-bd61-fc9f5a70f6f0)
 
 ## Objective
 
