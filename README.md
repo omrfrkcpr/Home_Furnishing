@@ -32,13 +32,11 @@ Home_Furnishing (folder)
 |----script.js
 ```
 
-## Expected Outcome
+## Outcome
 
 ![ezgif-2-e2762feb33](https://github.com/omrfrkcpr/Home_Furnishing/assets/77440899/b98256a2-cce7-43f1-bd61-fc9f5a70f6f0)
 
-## Objective
-
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are covered;
 
 - HTML
 
@@ -48,7 +46,7 @@ Home_Furnishing (folder)
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-### At the end of the project, you will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS
 
